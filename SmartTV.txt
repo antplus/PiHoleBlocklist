@@ -37,7 +37,8 @@ call.me.sel.sony.com
 flingo.tv
 sonybivstatic-a.akamaihd.net
 ssm1.internet.sony.tv
-
+hh.prod.sonyentertainmentnetwork.com
+api.erabu.sony.tv
 
 # LG
 ad.lgappstv.com
